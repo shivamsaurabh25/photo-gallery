@@ -13,6 +13,7 @@ A modern **React Vite** photo gallery app that allows users to **search, view, a
 
 ```
 📦 photo-gallery  
+ ┣ 📂 public      #assets
  ┣ 📜 index.html  
  ┣ 📂 src  
  ┃ ┣ 📂 api  
